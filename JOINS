@@ -1,4 +1,4 @@
-# Here is the SQL query used to identify the top 5 customers in the top 10 cities by revenue.
+# Here is the SQL query used to identify the top 5 customers in the top 10 cities by revenue using JOIN.
 
 
 SELECT A.customer_id,
