@@ -27,4 +27,4 @@ Staff
 Store
 
 # Visualizations
-The visualizations produced from this data were made using Tableau and can be found linked here
+The visualizations produced from this data were made using Tableau and can be found linked [here](https://public.tableau.com/views/RockBusterVisualizations/SalesbyCategoryinTop10Countries?:language=en-US&:display_count=n&:origin=viz_share_link)
